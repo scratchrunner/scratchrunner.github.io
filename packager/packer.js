@@ -217,7 +217,7 @@ window.Packer = (function() {
 
       /** Options regarding the loading screen. */
       this.loadingScreenOptions = {
-        text: 'forkphorus',
+        text: 'scratchrunner',
       };
 
       this.projectType = null;
